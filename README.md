@@ -52,3 +52,10 @@ Grid with more flexibility using media quries (better alternative available)
   }
 }
 ```
+<img width="1275" alt="Screen Shot 2023-10-19 at 10 21 05 PM" src="https://github.com/diwassapkota805/HTML-CSS-JAVASCRIPT_Notes/assets/102276270/93bf78be-2736-489f-a60a-b32b42b1a85d">
+
+## Grid vs Flexbox
+Flexbox are generally good for 1D.  
+Grid is generally good for 2D.
+
+
